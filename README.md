@@ -21,13 +21,13 @@ youtube-dl服务部署于服务端，可以随时进行服务更新，保证解�
 
 ## 预览图
 
-<img src="resources/Screenshot_1657295972.png" width = "300" height = "650" alt="" align=center />
-<img src="resources/Screenshot_1657296143.png" width = "300" height = "650" alt="" align=center />
-<img src="resources/Screenshot_1657296179.png" width = "300" height = "650" alt="" align=center />
+<img src="resources/Screenshot_1657295972.png" width = "300" height = "650" alt="" />
+<img src="resources/Screenshot_1657296179.png" width = "300" height = "650" alt=""  />
+<img src="resources/Screenshot_1657296143.png" width = "300" height = "650" alt=""  />
 
 # 立即体验：
 
 Google Play Store
 ：链接: [https://play.google.com/store/apps/details?id=com.pichillilorenzo.flutter_browser](https://play.google.com/store/apps/details?id=com.pichillilorenzo.flutter_browser)
 
-Releases:
+Releases:[https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.1/videosdownloader6.0.1.apk](https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.1/videosdownloader6.0.1.apk)
