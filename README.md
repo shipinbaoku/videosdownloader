@@ -28,6 +28,6 @@ youtube-dl服务部署于服务端，可以随时进行服务更新，保证解�
 # 立即体验：
 
 Google Play Store
-：链接: [https://play.google.com/store/apps/details?id=com.pichillilorenzo.flutter_browser](https://play.google.com/store/apps/details?id=com.pichillilorenzo.flutter_browser)
+：链接: [https://play.google.com/store/apps/details?id=net.videosdownloader.videodown](https://play.google.com/store/apps/details?id=net.videosdownloader.videodown)
 
 Releases:[https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.1/videosdownloader6.0.1.apk](https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.1/videosdownloader6.0.1.apk)
