@@ -21,7 +21,7 @@ youtube-dl服务部署于服务端，可以随时进行服务更新，保证解�
 
 ## 预览图
 
-<img src="resources/Screenshot_1657295972.png" width = "300" height = "650" alt="" />   <img src="resources/Screenshot_1657296179.png" width = "300" height = "650" alt=""  /> <img src="resources/Screenshot_1657296143.png" width = "300" height = "650" alt=""  />
+<img src="resources/Screenshot_1657295972.png" width = "200" height = "433" alt="" />   <img src="resources/Screenshot_1657296179.png" width = "200" height = "433" alt=""  /> <img src="resources/Screenshot_1657296143.png" width = "200" height = "433" alt=""  />
 
 # 立即体验：
 
