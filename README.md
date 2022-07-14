@@ -37,7 +37,6 @@ youtube-dl服务部署于服务端，可以随时进行服务更新，保证解�
 - [x] 下载列表、下载管理核心功能
 - [x] 服务端解析目标网页视频
 - [x] 对于有ip校验的网站支持经过服务器下载
-- 
 # FAQ：
 ## 应用为什么不支持youtube下载?
 因为我们需要上架Googleplay，所以剔除了youtube。需要的用户可以直接访问我们的WEB网站：[VideosDownloader.net](https://www.videosdownloader.net/)
