@@ -4,6 +4,8 @@
 
 提供超1000+个视频网站非版权视频的下载；支持常规视频文件下载更支持流媒体文件下载如m3u8、hls等；应用是跨平台的，目前已经完成Android设备核心功能，后期完善苹果设备适配。
 
+Provide downloads of non copyright videos from more than 1000 video websites; Support regular video file downloading and streaming media file downloading, such as m3u8, HLS, etc; The application is cross platform. At present, the core functions of Android devices have been completed, and Apple device adaptation will be improved in the later stage.
+
 ## 感谢各开源项目：
 
 正是有了诸如: [youtube-dl](https://github.com/ytdl-org/youtube-dl)等大量开源项目的贡献，才诞生了本应用。再次站在前人的肩上。
