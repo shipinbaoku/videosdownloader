@@ -3,7 +3,7 @@
 Google Play Store
 ：链接: [https://play.google.com/store/apps/details?id=net.videosdownloader.videodown](https://play.google.com/store/apps/details?id=net.videosdownloader.videodown)
 
-Releases: [https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.2/videosdownloader6.0.2.apk](https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.2/videosdownloader6.0.2.apk)
+Releases: [https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.4/videosdownloader604.apk](https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.4/videosdownloader604.apk)
 
 # 关于视频下载器
 
