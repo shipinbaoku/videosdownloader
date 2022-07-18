@@ -1,4 +1,11 @@
-﻿# 关于视频下载器
+﻿# 立即体验：
+
+Google Play Store
+：链接: [https://play.google.com/store/apps/details?id=net.videosdownloader.videodown](https://play.google.com/store/apps/details?id=net.videosdownloader.videodown)
+
+Releases: [https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.2/videosdownloader6.0.2.apk](https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.2/videosdownloader6.0.2.apk)
+
+# 关于视频下载器
 
 ## 功能概览：
 
@@ -82,9 +89,4 @@ youtube-dl服务部署于服务端，可以随时进行服务更新，保证解�
 
 后续可能流式传输以及视频音频文件合并功能仅向订阅用户开放。
 
-# 立即体验：
 
-Google Play Store
-：链接: [https://play.google.com/store/apps/details?id=net.videosdownloader.videodown](https://play.google.com/store/apps/details?id=net.videosdownloader.videodown)
-
-Releases: [https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.1/videosdownloader6.0.1.apk](https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.1/videosdownloader6.0.1.apk)
