@@ -3,7 +3,7 @@
 Google Play Store
 ：链接: [https://play.google.com/store/apps/details?id=net.videosdownloader.videodown](https://play.google.com/store/apps/details?id=net.videosdownloader.videodown)
 
-Releases: [https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.4/videosdownloader604.apk](https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.4/videosdownloader604.apk)
+Releases: [https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.5/videosdownloader605.apk.apk](https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.5/videosdownloader605.apk.apk)
 
 # 关于视频下载器
 
@@ -29,7 +29,11 @@ youtube-dl服务部署于服务端，可以随时进行服务更新，保证解�
 
 除了支持常规视频文件下载，更支持流媒体文件播放下载，如m3u8、hls等；
 
-## 预览图
+## IOS预览图(come soon)
+
+<img src="resources/IMG_0336.PNG" width = "200" height = "433" alt="" />  <img src="resources/IMG_0337.PNG" width = "200" height = "433" alt="" /> <img src="resources/IMG_0334.PNG" width = "200" height = "433" alt="" />
+
+## Android预览图
 
 <img src="resources/Screenshot_1657295972.png" width = "200" height = "433" alt="" />   <img src="resources/Screenshot_1657296179.png" width = "200" height = "433" alt=""  /> <img src="resources/Screenshot_1657296143.png" width = "200" height = "433" alt=""  />
 
