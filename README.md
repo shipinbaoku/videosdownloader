@@ -3,7 +3,7 @@
 Google Play Store
 ：链接: [https://play.google.com/store/apps/details?id=net.videosdownloader.videodown](https://play.google.com/store/apps/details?id=net.videosdownloader.videodown)
 
-Releases: [https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.5/videosdownloader605.apk](https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.5/videosdownloader605.apk)
+Releases: [https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.7/release6.0.7.apk](https://github.com/shipinbaoku/videosdownloader/releases/download/6.0.7/release6.0.7.apk)
 
 # 关于视频下载器
 
@@ -40,17 +40,18 @@ youtube-dl服务部署于服务端，可以随时进行服务更新，保证解�
 # TODO & DONE:
 
 
-- [ ] 适配ios端
-- [ ] 支持合并音频和视频后下载(实验性)
-- [ ] 丰富下载列表功能
-- [ ] 复制视频文件到手机相册
-- [ ] 内置播放器开发
-- [ ] 多语言翻译，打算贡献翻译的可以联系
-- [ ] 其他功能想到再补充，用户也可以提出
+
+- [x] 内置播放器开发
 - [x] 内置跨平台浏览器
 - [x] 下载列表、下载管理核心功能
 - [x] 服务端解析目标网页视频
 - [x] 对于有ip校验的网站支持经过服务器下载
+- [ ] 适配ios端
+- [ ] 支持合并音频和视频后下载(实验性)
+- [ ] 丰富下载列表功能
+- [ ] 复制视频文件到手机相册
+- [ ] 多语言翻译，打算贡献翻译的可以联系
+- [ ] 其他功能想到再补充，用户也可以提出
 # FAQ：
 ## 应用为什么不支持youtube下载?
 因为我们需要上架Googleplay，所以剔除了youtube。需要的用户可以直接访问我们的WEB网站：[VideosDownloader.net](https://www.videosdownloader.net/)
